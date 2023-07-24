@@ -1,0 +1,10 @@
+body, html {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #container {
+    width: 900px; /* Optional: Define a maximum width for the table */
+    padding: 50px;
+  }
